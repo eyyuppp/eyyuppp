@@ -15,7 +15,7 @@ I am also proficient in java language.</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Android,MEARN**
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **eyyuperdogan50@gmail.com**
 

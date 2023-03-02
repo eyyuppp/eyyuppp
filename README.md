@@ -4,7 +4,7 @@
 <h3 align="center">I'm Eyyüp, a computer engineering student. I am currently working on Android application development. I share my projects here. I usually use Kotlin programming language for Android projects.
 I am also proficient in java language.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyyuppp&label=Profile%20views&color=0e75b6&style=flat" alt="eyyuppp" /> </p>

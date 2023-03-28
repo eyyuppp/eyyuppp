@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm EYYÜP</h1>
+<h1 align="center"> About me ✍️</h1>
 <h3 align="center">I'm Eyyüp, a computer engineering student. I am currently working on Android application development. I share my projects here. I usually use Kotlin programming language for Android projects.
 I am also proficient in java language.</h3>
 

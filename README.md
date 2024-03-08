@@ -14,8 +14,6 @@ I'm always excited to explore new projects and exchange ideas.</h3>
 
 <p align="left"> <a href="https://twitter.com/@eyyperdoan12" target="blank"><img src="https://img.shields.io/twitter/follow/@eyyperdoan12?logo=twitter&style=for-the-badge" alt="@eyyperdoan12" /></a> </p>
 
-- 🌱 I’m currently learning **.Net**
-
 - 💬 Ask me about **Backend developer**
 
 - 📫 How to reach me **eyyuperdogan50@gmail.com**

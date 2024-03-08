@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <h1 align="center"> About me ✍️</h1>
-<h3 align="center">I'm Eyyüp, a computer engineering student. I am currently working on Android application development. I share my projects here. I usually use Kotlin programming language for Android projects.
-I am also proficient in java language.</h3>
+<h3 align="center">Hello! I'm a .NET Backend Developer with a passion for coding and problem-solving. I've honed my skills in developing robust and efficient applications using technologies like C#, ASP.NET, and SQL.
+
+I believe in the power of teamwork and continuous learning. With strong project management and communication skills, I enjoy collaborating with my teammates to tackle complex challenges and deliver top-notch solutions.
+
+I'm always excited to explore new projects and exchange ideas.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
